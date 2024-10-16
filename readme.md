@@ -1,6 +1,5 @@
 # 서버 동작 시키기
-server 폴더: node index
-client 폴더: npm run start
+루트 폴더: npm run start
 
 
 # 외부에서 앱 동작 시키기
